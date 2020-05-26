@@ -1,0 +1,8 @@
+{  
+    "provider": "cloudinary",  
+    "providerOptions": {
+      "cloud_name": "willysvarela",
+      "api_key": "996986371729121",
+      "api_secret": "nSmluAk1mYdX4Ksf-Dq2_MIETxw"  
+    }
+  }
